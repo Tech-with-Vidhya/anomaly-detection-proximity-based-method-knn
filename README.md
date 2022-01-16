@@ -1,4 +1,4 @@
-# outlier-detection-proximity-based-method-knn
+# anomaly-detection-proximity-based-method-knn
 
 This project is delivered as part of my Masters in Big Data Science (MSc BDS) Program for the module named “Data Mining” in Queen Mary University of London (QMUL), London, United Kingdom.  
 
